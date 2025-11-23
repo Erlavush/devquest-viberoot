@@ -26,10 +26,13 @@ VibeRoot takes your abstract "Vibe" (e.g., *"I feel chaotic but want to grow"*) 
 | <img src="https://github.com/user-attachments/assets/ce4c07d5-e1e5-439d-a4b8-dc904434ea06" width="300"> | <img src="https://github.com/user-attachments/assets/b88d2552-ded5-4d27-97bc-ad539eb34004" width="300"> |
 
 
+</div> 
 
-## Tech Stack
+---
+
+## 🛠️ Tech Stack
 *   **Language:** Kotlin (Jetpack Compose)
-*   **AI Model:** Google Gemini (Flash 2.5 Model)
+*   **AI Model:** Google Gemini (Flash 1.5)
 *   **Backend:** Firebase Cloud Firestore
 *   **Images:** Coil + Dynamic Keyword Search
 
