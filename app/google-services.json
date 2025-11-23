@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "292787042844",
+    "project_id": "devquest-2025-entry",
+    "storage_bucket": "devquest-2025-entry.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292787042844:android:6fb28b39dc9fb984bc3dd9",
+        "android_client_info": {
+          "package_name": "com.dev.devquestpractice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtFKdL_QH5aXJHCWmsQqDu4vp9Ni1dSL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292787042844:android:ddc16e8fc5c815f8bc3dd9",
+        "android_client_info": {
+          "package_name": "com.dev.viberoot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtFKdL_QH5aXJHCWmsQqDu4vp9Ni1dSL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292787042844:android:8343260a9a593558bc3dd9",
+        "android_client_info": {
+          "package_name": "com.devfest.viberoot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtFKdL_QH5aXJHCWmsQqDu4vp9Ni1dSL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
