@@ -20,12 +20,10 @@ VibeRoot takes your abstract "Vibe" (e.g., *"I feel chaotic but want to grow"*) 
 
 <div align="center">
 
+
 | **The Vibe Check (Input)** | **The Soulmate Match (Result)** |
 |:--------------------------:|:-------------------------------:|
-|![b6a037c1-ca6f-4420-a32c-c01b5fb8ee30](https://github.com/user-attachments/assets/ce4c07d5-e1e5-439d-a4b8-dc904434ea06)
-|![8cf36267-16e8-4db7-b512-a45f45e7bc5f](https://github.com/user-attachments/assets/b88d2552-ded5-4d27-97bc-ad539eb34004)|
-
-</div>
+| <img src="https://github.com/user-attachments/assets/ce4c07d5-e1e5-439d-a4b8-dc904434ea06" width="300"> | <img src="https://github.com/user-attachments/assets/b88d2552-ded5-4d27-97bc-ad539eb34004" width="300"> |
 
 
 
