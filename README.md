@@ -1,4 +1,4 @@
-# 🌱 VibeRoot: Your Plant Soulmate
+# 🌱 VibeRoot: Your Plant Soulmate 🌱
 
 > **"Tinder for Plants" — Powered by Google Gemini**
 
@@ -30,7 +30,7 @@ VibeRoot takes your abstract "Vibe" (e.g., *"I feel chaotic but want to grow"*) 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 *   **Language:** Kotlin (Jetpack Compose)
 *   **AI Model:** Google Gemini (Flash 1.5)
 *   **Backend:** Firebase Cloud Firestore
@@ -38,7 +38,7 @@ VibeRoot takes your abstract "Vibe" (e.g., *"I feel chaotic but want to grow"*) 
 
 ---
 
-## 👥 The Team
+## The Team
 **University of Southeastern Philippines**
 
 *   Kent Paulo Delgado
